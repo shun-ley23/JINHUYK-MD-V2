@@ -29,7 +29,7 @@
 </p>
 
 -----------
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>SUBZERO-MD</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/JINHUYK-MD-V2/count.svg" /><br>JINHUYK-MD-V2</div>
 
 ------------
 
