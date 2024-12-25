@@ -83,7 +83,7 @@ jobs:
 ----------
 ## SESSION JINHUYK-MD-V2
 <p align="center">
-<a href="https://jinhuyk-session-1mrq.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:-black?style=for-the-badge&logo=render"></a>
+<a href="https://sasaki-session-bot.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:-black?style=for-the-badge&logo=render"></a>
 <p/>
 --------
 
